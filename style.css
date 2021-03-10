@@ -297,3 +297,7 @@ color:black;
     border-radius: 60px;
 
 }
+
+#success-message{
+    padding-bottom: 30px;
+}
