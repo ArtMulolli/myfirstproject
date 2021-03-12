@@ -301,3 +301,28 @@ color:black;
 #success-message{
     padding-bottom: 30px;
 }
+
+.like-content{
+    display: flex;
+}
+
+.like{
+    width: 25px;
+    object-fit: contain;
+    margin-right: 15px;
+
+}
+
+
+.like-1{
+    width: 25px;
+    object-fit: contain;
+    margin-right: 15px;
+}
+
+
+.like-2{
+    width: 25px;
+    object-fit: contain;
+    margin-right: 15px;
+}
